@@ -15,7 +15,7 @@
 * Ensure form elements includes clearly associated labels
 * Provide easy indentifiable feedback
 * Use headings and spacing to group related content
-* Create desing for different viewport sizes
+* Create design for different viewport sizes
 * include images and mdedia alternative in your design
 * Provide control for content that starts automatically
 
