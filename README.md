@@ -29,5 +29,5 @@
 * Write code that adapts to the user's technology
 * Provide meaning for non-standard interactive elements
 * Ensure that all interactive elements are keyboard accessible
-* Avoid CAPTCHAT where possible, if CAPTCHA is required make sure provide CAPTCHA alterntive to accomodate hearing and visual disabilities.
+* Avoid CAPTCHAT where possible, if CAPTCHA is required provide CAPTCHA alterntive.
 
