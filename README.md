@@ -1,7 +1,7 @@
 # During design I ensure: 
 * Color choices (proper color contrast)
 * Alternative text for images
-* Heading label
+* Heading level
 * links/button text
 * Form level
 * Error message
