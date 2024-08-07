@@ -8,7 +8,7 @@
 * Visual focus color
 * User interaction
 * Keyboard functionality.
-* Design fit with different viewport sizes.
+* Page responsiveness.
 
 # During development I ensure:
 * Page language
