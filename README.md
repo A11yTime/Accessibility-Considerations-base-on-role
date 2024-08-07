@@ -1,3 +1,25 @@
+# During design I ensure: 
+* Color choices (proper color contrast)
+* Alternative text for images
+* Heading levels
+* links/button text
+* Form level
+* Error message
+* Visual focus color
+* User interaction
+* Keyboard functionality.
+* Design fit with different viewport sizes.
+
+# During development I ensure:
+* Page language
+* Meaningful page title
+* Page structue with good semantics
+* Logical reading order
+* Programmatically determinable link/button text
+* Programmatically determinable form label and error message
+* All action provide immediate feedback that is programmatically determined.
+
+
 # Accessibility Considerations base on role
 ### Basic consideratons:
 * Provide information and unique page title
