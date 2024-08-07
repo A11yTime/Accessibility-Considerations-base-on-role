@@ -18,6 +18,7 @@
 * Programmatically determinable link/button text
 * Programmatically determinable form label and error message
 * All action provide immediate feedback that is programmatically determined.
+* Interactive element available and functional with keyboard.
 
 
 # Accessibility Considerations base on role
